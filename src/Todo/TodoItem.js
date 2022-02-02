@@ -12,7 +12,7 @@ const styles = {
         borderRadius: '4px',
         marginBottom: '.5rem'
     },
-    input: {
+    input:  {
         marginRight: '1rem'
     }
 }
